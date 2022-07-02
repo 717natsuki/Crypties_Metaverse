@@ -33,17 +33,8 @@ Blockchain : Polygon, Ethereum. (Avalanche, BNB, Fantom coming very soon)
 We struggled in developing function to make your avatar wear 3D NFTs. 3D files have a lot more file types and bone structures than 2D files, therefore building the system took a lot of time. We also troubled on hosting the metaverse on web, because in order to build metaverse on web, we needed to use WebGL which is still in early stage to use.
 
 ## URLs
-Document
-- https://zoa.gitbook.io/zoa/
-
-Company
-- https://suishow.net/
-
 Metaverse URL
 - https://zoa.space/
-
-Metaverse Landing Page
-- https://hello.zoa.space/
 
 NFT Marketplace URL
 - https://metamart.space/
