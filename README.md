@@ -26,7 +26,4 @@ Backend: GCP/Dart
 ## Challenges faced.
 The app was rejected by Apple more than 20 times for review. It seemed that the terms and conditions to submit on App Store did not reflect whether it was okay for crypto-based apps to be released on the App Store, and what Apple staff were saying differed from person to person, making it difficult. Some times our app were rejected just for logging in with MetaMask. We did not give up, and after repeated discussions with Apple staff, we were finally able to release the app.
 
-## URLs
-Play Store URL: https://play.google.com/store/apps/details?id=com.natsuki.crypties_app
 
-App Store URL: https://apps.apple.com/jp/app/crypties-nft-enthusiasts/id1588626966
